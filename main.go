@@ -11,7 +11,7 @@ import (
 	//_ "github.com/elastic/beats/metricbeat/include"
 
 	// Make sure all your modules and metricsets are linked in this file
-	_ "github.com/UMN-PeopleSoft/psoftbeat/include"
+	_ "github.com/cfazzini/psoftbeat/include"
 )
 
 var settings = instance.Settings{

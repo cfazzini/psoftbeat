@@ -5,8 +5,8 @@ import (
 	"github.com/elastic/beats/metricbeat/mb"
 
 	"fmt"
-	"github.com/UMN-PeopleSoft/psoftbeat/module/psoft"
-	"github.com/UMN-PeopleSoft/psoftjmx"
+	"github.com/cfazzini/psoftbeat/module/psoft"
+	"github.com/cfazzini/psoftjmx"
 
 )
 

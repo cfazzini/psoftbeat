@@ -1,5 +1,5 @@
 BEAT_NAME=psoftbeat
-BEAT_PATH=github.com/UMN-PeopleSoft/psoftbeat
+BEAT_PATH=github.com/cfazzini/psoftbeat
 BEAT_GOPATH=$(firstword $(subst :, ,${GOPATH}))
 SYSTEM_TESTS=false
 TEST_ENVIRONMENT=false

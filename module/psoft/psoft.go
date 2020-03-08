@@ -3,7 +3,7 @@ package psoft
 import (
 	"github.com/elastic/beats/libbeat/logp"
 	"github.com/elastic/beats/metricbeat/mb"
-	"github.com/UMN-PeopleSoft/psoftjmx"
+	"github.com/cfazzini/psoftjmx"
 	//"github.com/gocarina/gocsv"
 	//"github.com/pkg/errors"
 )

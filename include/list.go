@@ -26,6 +26,6 @@ modules.
 package include
 
 import (
-	_ "github.com/UMN-PeopleSoft/psoftbeat/module/psoft"
-	_ "github.com/UMN-PeopleSoft/psoftbeat/module/psoft/stat"
+	_ "github.com/cfazzini/psoftbeat/module/psoft"
+	_ "github.com/cfazzini/psoftbeat/module/psoft/stat"
 )
